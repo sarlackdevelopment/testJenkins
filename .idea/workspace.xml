@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c0a7e5f-1a7d-4faf-a4db-cda7a373ea5a" name="Default Changelist" comment="" />
+    <list default="true" id="1c0a7e5f-1a7d-4faf-a4db-cda7a373ea5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/calculation/AddClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculation/AddClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/jenkins.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculation/AddClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculation/AddClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculation/DivisionClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculation/DivisionClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculation/MultClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculation/MultClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculation/RemoveClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculation/RemoveClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/calculation/AddClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculation/AddClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/calculation/DivisionClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculation/DivisionClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/calculation/MultClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculation/MultClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/calculation/RemoveClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculation/RemoveClassTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1bRIBDXnTOwMyWazO9lhfAX8nsm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -140,5 +161,16 @@
       <updated>1588588341952</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
