@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c0a7e5f-1a7d-4faf-a4db-cda7a373ea5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jenkins-test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jenkins-test-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.AddClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.AddClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.DivisionClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.DivisionClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.MultClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.MultClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.RemoveClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-calculation.RemoveClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/calculation.DivisionClassTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/calculation.DivisionClassTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/calculation.MultClassTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/calculation.MultClassTest.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +41,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -45,19 +58,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveClassTest">
-    <configuration name="AddClassTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="jenkins" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="calculation" />
-      <option name="MAIN_CLASS_NAME" value="calculation.AddClassTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.RemoveClassTest" />
         <item itemvalue="JUnit.RemoveClassTest.remove" />
         <item itemvalue="JUnit.MultClassTest.mult" />
         <item itemvalue="JUnit.DivisionClassTest.add" />
-        <item itemvalue="JUnit.AddClassTest.add" />
       </list>
     </recent_temporary>
   </component>

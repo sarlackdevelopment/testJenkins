@@ -9,7 +9,7 @@ public class AddClassTest {
   @Test
   public void add() {
     AddClass addInstance = new AddClass();
-    assertEquals(addInstance.add(10, 10), 20);
+    assertEquals(addInstance.add(10, 10), 23);
   }
 
 }
